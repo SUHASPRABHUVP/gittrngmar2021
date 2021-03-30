@@ -6,3 +6,4 @@ line from local
 line from remote
 line for change from local
 line for change from remote
+line 7 for change from local bugfix branch
